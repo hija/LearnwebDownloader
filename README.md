@@ -18,4 +18,4 @@ You can use the tool the following way
 Right now, the tool only downloads .pdf files. However, this should be sufficient for the most tasks.
 Otherwise, just adjust the line 55 of the sourcecode.
 
-https://github.com/hija/Learnweb-Downloader/blob/master/LearnwebDownloader.py#L55
+https://github.com/hija/LearnwebDownloader/blob/master/LearnwebDownloader.py#L55
